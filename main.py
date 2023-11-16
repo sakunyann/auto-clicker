@@ -11,7 +11,7 @@ if x == 3: break
 pyautogui.click(clicks=2, interval=0.75)
 
 
-#Loop clicking food and drag and drop.
+#Loop clicking over coordinates as well as drag and drop.
 for x in range(4):
     if x == 3: break 
     #Moves cursor over coorinates  
